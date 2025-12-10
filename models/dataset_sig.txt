@@ -1,0 +1,1 @@
+10129779635620023383-(530652, 13)-('CrimeType', 'YEAR', 'MONTH', 'DAY', 'Hour', 'MINUTE', 'HUNDRED_BLOCK', 'Neighbourhood', 'X', 'Y', 'Latitude', 'Longitude', 'DayOfWeek')

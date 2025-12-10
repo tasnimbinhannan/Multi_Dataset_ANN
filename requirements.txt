@@ -1,0 +1,13 @@
+pandas
+numpy
+joblib
+scikit-learn
+tensorflow
+keras
+matplotlib
+seaborn
+networkx
+folium
+streamlit
+streamlit-folium
+Pillow
