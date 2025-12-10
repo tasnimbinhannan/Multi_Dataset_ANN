@@ -62,7 +62,7 @@ Place raw data in data/raw/ and add processing scripts in src/data_preprocessing
 Add a LICENSE file. If none chosen yet, consider MIT or Apache-2.0.
 
 ## Contact
-Project maintainer: replace-with-maintainer-email@example.com
+Project maintainer: hannan22205101062@diu.edu.bd
 
 Notes
 - Replace placeholder values (repo url, configs, email) with real project information.
